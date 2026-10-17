@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "modelUrl": "cyber_shield_model.tflite",
+  "vocabUrl": "vocab.txt",
+  "releaseNotes": "Yangi firibgarlik naqshlari qo'shildi"
+}
